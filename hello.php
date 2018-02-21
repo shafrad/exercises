@@ -1,3 +1,33 @@
 <?php
  echo "hello world";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
+ echo "saya belajar GIT di hari ke tiga";
 ?>
