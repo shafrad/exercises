@@ -1,8 +1,0 @@
-{
-    
-    "appName": "tutor_express",
-    "port": "3002",
-    "views": "./views",
-    "view engine": "jade"
-
-}
